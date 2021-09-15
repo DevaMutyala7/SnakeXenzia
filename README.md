@@ -2,6 +2,8 @@
 
 A classical 90's Snake Game developed using pure Javascript, HTML and CSS
 
+click here for Live Demo:- https://devamutyala7.github.io/SnakeXenzia/
+
 <img width="403" alt="snake-xenzia" src="https://user-images.githubusercontent.com/82375896/132945155-3f23fce5-a412-4014-a5b1-4d3c6ee7916c.PNG">
 
 As you progress in the game the level will be increased i.e. both speed and size of the snake will be increasing. 
